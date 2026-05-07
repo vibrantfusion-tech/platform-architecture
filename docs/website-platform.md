@@ -1,4 +1,7 @@
-# Website Platform
+---
+layout: page
+title: Website Platform
+---
 
 ## Overview
 

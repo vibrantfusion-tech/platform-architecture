@@ -1,4 +1,7 @@
-# Platform Architecture
+---
+layout: home
+title: Platform Architecture
+---
 
 Technical documentation for the Vibrant Fusion digital platform, including the customer-facing website, loyalty system, kiosk workflows, realtime admin tooling, and promotions infrastructure.
 
