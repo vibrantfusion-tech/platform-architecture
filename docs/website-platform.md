@@ -130,19 +130,19 @@ The architecture prioritized:
 
 ## Homepage
 
-![Homepage](../assets/screenshots/homepage.png)
+![Homepage](assets/screenshots/homepage.png)
 
 ---
 
 ## Mobile Experience
 
-![Mobile Experience](../assets/screenshots/mobile-home.png)
+![Mobile Experience](assets/screenshots/mobile-home.png)
 
 ---
 
 ## Menu Experience
 
-![Menu Experience](../assets/screenshots/menu-page.png)
+![Menu Experience](assets/screenshots/menu-page.png)
 
 ---
 

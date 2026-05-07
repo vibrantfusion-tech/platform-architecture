@@ -1,13 +1,14 @@
-# Vibrant Fusion Platform Architecture
+# Platform Architecture
 
-Technical documentation for the Vibrant Fusion digital platform, including the customer-facing website, loyalty system, kiosk flow, admin dashboard, and promotions engine.
+Technical documentation for the Vibrant Fusion digital platform, including the customer-facing website, loyalty system, kiosk workflows, realtime admin tooling, and promotions infrastructure.
 
-## Platform Components
+## Documentation Index
 
-- [Website Platform](website-platform.md)
-- [Loyalty Platform](loyalty-platform.md)
-- [Kiosk Admin Sync](kiosk-admin-sync.md)
-- [Promotions Engine](promotions-engine.md)
-- [Members & Transactions](members-transactions.md)
-- [Auth & Security](auth-security.md)
-- [System Overview](system-overview.md)
+1. [System Overview](system-overview.md)
+2. [Technology Stack](technology-stack.md)
+3. [Website Platform](website-platform.md)
+4. [Loyalty Platform](loyalty-platform.md)
+5. [Kiosk Admin Sync](kiosk-admin-sync.md)
+6. [Members & Transactions](members-transactions.md)
+7. [Promotions Engine](promotions-engine.md)
+8. [Auth & Security](auth-security.md)
