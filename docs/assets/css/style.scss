@@ -1,0 +1,42 @@
+---
+---
+
+@import "minima";
+
+body {
+  background: #f6f8fb;
+  color: #1f2937;
+  font-family: Inter, sans-serif;
+}
+
+.site-header {
+  background: linear-gradient(135deg, #6a11cb, #2575fc);
+  border-top: none;
+}
+
+.site-title,
+.site-title:visited {
+  color: white;
+  font-weight: 700;
+}
+
+.page-content {
+  background: white;
+  padding: 40px;
+  border-radius: 18px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.06);
+  margin-top: 30px;
+}
+
+h1, h2, h3 {
+  color: #111827;
+}
+
+a {
+  color: #2563eb;
+}
+
+img {
+  border-radius: 14px;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.08);
+}

@@ -4,3 +4,6 @@ theme: minima
 
 header_pages:
   - index.md
+
+sass:
+  style: compressed
