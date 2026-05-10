@@ -1,3 +1,6 @@
 title: Vibrant Fusion
 description: Platform architecture documentation
 theme: minima
+
+header_pages:
+  - index.md
