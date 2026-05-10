@@ -6,7 +6,6 @@
 body {
   background: #f6f8fb;
   color: #1f2937;
-  font-family: Inter, sans-serif;
 }
 
 .site-header {
@@ -20,20 +19,16 @@ body {
   font-weight: 700;
 }
 
-.page-content {
+.site-nav .page-link {
+  color: white;
+}
+
+.page-content .wrapper {
   background: white;
   padding: 40px;
   border-radius: 18px;
   box-shadow: 0 10px 30px rgba(0,0,0,0.06);
   margin-top: 30px;
-}
-
-h1, h2, h3 {
-  color: #111827;
-}
-
-a {
-  color: #2563eb;
 }
 
 img {

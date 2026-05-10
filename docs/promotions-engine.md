@@ -107,13 +107,6 @@ The subsystem intentionally separates campaign creation, recipient generation, d
 
 ---
 
-
-## Promotions Workflow Diagram
-
-![Promotions Engine Architecture](assets/diagrams/promotions-engine.png)
-
----
-
 ## Promotions Data Architecture
 
 The subsystem leverages relational operational modeling to manage campaigns and recipient delivery workflows.
